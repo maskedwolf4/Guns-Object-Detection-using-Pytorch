@@ -1,0 +1,13 @@
+setuptools
+numpy
+pandas
+kagglehub
+opencv-python-headless
+torch 
+torchvision
+Pillow
+tqdm
+albumentations
+matplotlib
+tensorboard
+dvc
