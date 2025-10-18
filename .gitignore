@@ -199,3 +199,4 @@ artifacts/models
 build/lib/
 *.egg-info/
 logs/
+tensorboard_logs/
